@@ -1,0 +1,15 @@
+﻿body {
+}
+.bookshop-homepage-img-container {
+    background: url("../img/home.jpg");
+    height: 40vh;
+    background-attachment: fixed;
+    background-position: top;
+}
+
+.bookshop-homepage2-img-container {
+    background: url("../img/digital-library.png");
+    height: 40vh;
+    background-attachment: fixed;
+    background-position: top;
+}
